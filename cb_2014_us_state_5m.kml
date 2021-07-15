@@ -71,7 +71,7 @@
 		<Folder id="kml_ft_cb_2014_us_state_5m">
 			<name>cb_2014_us_state_5m</name>
 			<Placemark id="cb_2014_us_state_5m">
-				<name>Arizona</name>
+				<!--<name>Arizona</name>-->
 				<visibility>1</visibility>
 				<description></description>
 				<styleUrl>#KMLStyler</styleUrl>
@@ -82,7 +82,7 @@
 						<SimpleData name="AFFGEOID">0400000US04</SimpleData>
 						<SimpleData name="GEOID">04</SimpleData>
 						<SimpleData name="STUSPS">AZ</SimpleData>
-						<SimpleData name="NAME">Arizona</SimpleData>
+						<!--<SimpleData name="NAME">Arizona</SimpleData>-->
 						<SimpleData name="LSAD">00</SimpleData>
 						<SimpleData name="ALAND">294205282243</SimpleData>
 						<SimpleData name="AWATER">1027790845</SimpleData>
